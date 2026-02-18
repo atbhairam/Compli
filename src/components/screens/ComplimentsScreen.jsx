@@ -37,7 +37,7 @@ export default function ComplimentsScreen({ onNext }) {
             <div className="relative w-full max-w-md h-96 flex items-center justify-center">
                 <div className="absolute top-0 max-[366px]:left-0 left-3 md:left-14 z-10 -rotate-6">
                     <Card
-                        text=  "YOU RE SO SPECIAL."
+                        text=  "11:11."
                     />
                 </div>
                 <div className="absolute top-3 md:top-4 max-[366px]:right-0 right-4 md:right-14 z-20 rotate-12">
