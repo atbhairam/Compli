@@ -31,23 +31,23 @@ export default function ComplimentsScreen({ onNext }) {
             animate={{ opacity: 1 }}
         >
             <h2 className="text-4xl md:text-5xl text-balance font-dancing font-semibold text-rose-500/85 mb-12 z-10 text-center">
-                My favorite things about you
+                I am so proud of you
             </h2>
 
             <div className="relative w-full max-w-md h-96 flex items-center justify-center">
                 <div className="absolute top-0 max-[366px]:left-0 left-3 md:left-14 z-10 -rotate-6">
                     <Card
-                        text="Being around you makes even ordinary days feel special."
+                        text=  "YOU RE SO SPECIAL."
                     />
                 </div>
                 <div className="absolute top-3 md:top-4 max-[366px]:right-0 right-4 md:right-14 z-20 rotate-12">
                     <Card
-                        text="I love how your eyes light up when you talk about things you love."
+                        text="You're too mehnati girl with strong and good heart"
                     />
                 </div>
                 <div className="absolute bottom-4 left-1/2 -translate-x-1/2 z-30 -rotate-2">
                     <Card
-                        text="Your laugh is literally my favorite sound in the entire universe. Never stop."
+                        text="You're the best person, best daughter, Best Sister best friend, one of the kindest person."
                     />
                 </div>
             </div>

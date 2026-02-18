@@ -39,9 +39,14 @@ export default function MessageScreen({ onNext }) {
 
                     <div className="text-gray-700 leading-relaxed whitespace-pre-wrap max-h-67 overflow-auto">
                         <p>
-                            I wanted to make something a little different for you, just to remind you how much you mean to me.
-                            Thank you for being my person. Thank you for the laughs, the patience, and for sharing your world with me.
+                            I wanted to make something a little different for you, just to remind you how much you mean to me and the people around you.
+                            Thank you for being my friend. Thank you for the laughs, the patience, and for sharing many stories with me.
                             You are genuinely wonderful, and I hope this little surprise made you smile today.
+                            AND THE WAY YOU MANAGED JOB SWITCH, DI KI SHAADI KA MANAGEMENT AND MUMMY KI CARING EVERYONE SHOULD LEARN FROM YOU.
+                        </p>
+                        <p>
+                                                   SORRY KRITIKA
+                                                
                         </p>
                     </div>
                     <motion.div

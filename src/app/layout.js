@@ -8,7 +8,7 @@ const outfit = Outfit({
 
 export const metadata = {
   title: "You're the best!",
-  description: "A cute little website filled with compliments, surprises, and a heartfelt message made just for you.",
+  description: "A cute little website filled with compliments, proud, and a heartfelt message made just for you.",
 };
 
 export default function RootLayout({ children }) {
